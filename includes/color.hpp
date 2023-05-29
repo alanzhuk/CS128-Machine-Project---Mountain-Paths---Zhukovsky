@@ -1,6 +1,8 @@
 #ifndef COLOR_H
 #define COLOR_H
-
+#include <cstdlib>  // for size_t
+#include <vector>
+#include <string>
 class Color {
 public:
   Color() = default;
